@@ -1,6 +1,16 @@
-# Metro
+# MetroG
 
 Material Design music player for Android music lovers
+
+I made this fork to make my own version of this amazing music player.
+I'll be focusing on removing features I dont need/want and adding others i wish it had.
+
+Things I want to add:
+- [ ] Favorite songs on each Artist Profile
+- [ ] Ability to pin favorite artists to the top of the list
+- [ ] Playlist maker by selecting a few artists
+
+
 
 ## Downloads
 
